@@ -1,0 +1,13 @@
+:root {
+  --white: #ffffff;
+  --gray: #d9d9d9;
+  --black: #000000;
+  --primary-color: #1f0f7b;
+  --secondary-color: #ad4ee2;
+  --dark-secondary-color: #ad4ee2;
+  --tertiary-color: #dfc0ff;
+  --light-tertiary-color: rgb(224, 190, 233);
+  --text-color: #1f0f7b;
+
+  --font-family: "Times New Roman", Times, serif;
+}
